@@ -92,7 +92,6 @@ This project uses the TMDb API for movie data. Please note that you should obtai
 
 ## 👏 Credits
 
-- 👨‍💻 Created by Ritesh Kadam
 - 🎞️ Movie data provided by [The Movie Database (TMDb)](https://www.themoviedb.org/)
 - 🎯 Icons from [Font Awesome](https://fontawesome.com/)
 - 🔤 Fonts from [Google Fonts](https://fonts.google.com/)
